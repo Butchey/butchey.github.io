@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen:700|Roboto+Mono');
+
+body {
+	font-family: 'Roboto Mono', monospace;
+}
+
+.contact-name {
+	font-family: 'Oxygen', sans-serif;
+}
