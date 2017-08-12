@@ -2,8 +2,21 @@
 
 body {
 	font-family: 'Roboto Mono', monospace;
+	font-size: 12px;
+	display: flex; justify-content: center; align-items: center;
+	color: #4f4f4f;
+}
+
+.container {
+
+}
+
+.contact {
+	display: inline-block;
+	margin-left: 10px;
 }
 
 .contact-name {
 	font-family: 'Oxygen', sans-serif;
+	text-transform: uppercase;
 }
