@@ -1,10 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Oxygen:700|Roboto+Mono');
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
 
 body {
-	font-family: 'Roboto Mono', monospace;
+	font-family: 'Nunito', sans-serif;
 	font-size: 12px;
 	display: flex; justify-content: center; align-items: center;
-	color: #4f4f4f;
+	color: #fff;
+	background: #111111;
 }
 
 .container {
@@ -18,5 +19,6 @@ body {
 
 .contact-name {
 	font-family: 'Oxygen', sans-serif;
+	font-weight: bold;
 	text-transform: uppercase;
 }
